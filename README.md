@@ -52,4 +52,4 @@ Settings are saved automatically to `config.ini`.
 
 OpenConnection is released under the [MIT License](LICENSE). You are free to use, modify, and distribute it for any purpose. Contributions and pull requests are welcome.
 
-Chromium is a separate open-source project maintained by Google and is not bundled with this repository. It is licensed under the [BSD License](https://chromium.googlesource.com/chromium/src/+/main/LICENSE).
+Chromium is a separate open-source project maintained by Google and is bundled with this repository. It is licensed under the [BSD License](https://chromium.googlesource.com/chromium/src/+/main/LICENSE).
