@@ -28,7 +28,7 @@
 
 1. Download or clone this repository
 ```
-   git clone https://github.com/yourusername/OpenConnection.git
+   git clone https://github.com/TheCodingGuy16/OpenConnection.git
 ```
 
 2. Double-click `openconnection.bat` to launch
